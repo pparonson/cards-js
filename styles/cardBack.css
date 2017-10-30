@@ -1,0 +1,10 @@
+/*body {
+  background-image: image('http://www.outrageousfortunes.co.uk/?attachment_id=1116#');
+}*/
+
+img {
+  border-radius: 0.3125em;
+  border: 0.625em solid black;
+  width: 12.890625em;
+  height: 281.25px;
+}
